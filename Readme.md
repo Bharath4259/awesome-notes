@@ -1,6 +1,6 @@
 # awesome-notes
 
-# Useful Tools
+## Useful Tools
 
 1) Geocoding -Free - https://opencagedata.com/
     - 2500 req/day
